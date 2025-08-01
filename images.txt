@@ -1,7 +1,6 @@
-minio/minio:RELEASE.2025-04-08T15-41-24Z
-redis:8.0.3
-mysql:8.4.6
-postgres:17.5-alpine
+qdrant/qdrant
+mem0/openmemory-mcp
+mem0/openmemory-ui:latest
 
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
