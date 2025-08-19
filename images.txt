@@ -1,6 +1,9 @@
-qdrant/qdrant
-mem0/openmemory-mcp
-mem0/openmemory-ui:latest
+tradingagents-cn:latest
+mongo:4.4
+redis:latest
+ghcr.io/joeferner/redis-commander:latest
+mongo-express:latest
+
 
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
