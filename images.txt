@@ -1,8 +1,5 @@
-mongo:4.4
-redis:latest
-ghcr.io/joeferner/redis-commander:latest
-mongo-express:latest
-
+postgres:13-alpine
+apache/hive:4.0.0-beta-1
 
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
