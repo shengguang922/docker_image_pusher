@@ -1,5 +1,5 @@
-postgres:15-alpine
-apache/hive:4.0.0
+sequenceiq/hadoop-docker:2.7.1
+bde2020/hive:2.3.2-postgresql-metastore
 
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
