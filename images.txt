@@ -1,5 +1,9 @@
-sequenceiq/hadoop-docker:2.7.1
-bde2020/hive:2.3.2-postgresql-metastore
+langgenius/dify-api:1.9.2
+langgenius/dify-web:1.9.2
+semitechnologies/weaviate:1.27.0
+ubuntu/squid:latest
+langgenius/dify-sandbox:0.2.12
+langgenius/dify-plugin-daemon:0.3.3-local
 
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
