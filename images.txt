@@ -1,9 +1,4 @@
-langgenius/dify-api:1.9.2
-langgenius/dify-web:1.9.2
-semitechnologies/weaviate:1.27.0
-ubuntu/squid:latest
-langgenius/dify-sandbox:0.2.12
-langgenius/dify-plugin-daemon:0.3.3-local
+xuxueli/xxl-job-admin:2.0.1
 
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
